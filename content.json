@@ -1,0 +1,2113 @@
+{
+ "title": "KCA Cycling Strength and Movement Library",
+ "subtitle": "36 workouts • TrainingPeaks reference guide • Version 1.0 • November 2026",
+ "intro": "Use the code assigned by your KCA coach to find your session. Each category contains six alternatives. Complete only the workouts assigned in TrainingPeaks; the library is not a weekly checklist or a sequence from easiest to hardest.",
+ "quickref": [
+  {
+   "range": "1.1–1.6",
+   "name": "Heavy lifting",
+   "items": [
+    [
+     "1.1",
+     "Squat foundation",
+     "45–55 min"
+    ],
+    [
+     "1.2",
+     "Hinge and posterior chain",
+     "45–55 min"
+    ],
+    [
+     "1.3",
+     "Unilateral strength",
+     "45–55 min"
+    ],
+    [
+     "1.4",
+     "Machine strength option",
+     "40–50 min"
+    ],
+    [
+     "1.5",
+     "Full-body MTB support",
+     "45–55 min"
+    ],
+    [
+     "1.6",
+     "In-season maintenance",
+     "30–40 min"
+    ]
+   ]
+  },
+  {
+   "range": "2.1–2.6",
+   "name": "Muscular endurance lifting",
+   "items": [
+    [
+     "2.1",
+     "Full-body endurance",
+     "30–40 min"
+    ],
+    [
+     "2.2",
+     "Single-leg endurance",
+     "30–40 min"
+    ],
+    [
+     "2.3",
+     "Posterior-chain endurance",
+     "30–40 min"
+    ],
+    [
+     "2.4",
+     "Upper-body trail endurance",
+     "30–40 min"
+    ],
+    [
+     "2.5",
+     "Travel dumbbell endurance",
+     "30–35 min"
+    ],
+    [
+     "2.6",
+     "Timed work-capacity circuit",
+     "30–35 min"
+    ]
+   ]
+  },
+  {
+   "range": "3.1–3.6",
+   "name": "Bodyweight strength",
+   "items": [
+    [
+     "3.1",
+     "Movement foundation",
+     "25–35 min"
+    ],
+    [
+     "3.2",
+     "Single-leg control",
+     "30–40 min"
+    ],
+    [
+     "3.3",
+     "Posterior-chain control",
+     "25–35 min"
+    ],
+    [
+     "3.4",
+     "Upper-body and trunk support",
+     "25–35 min"
+    ],
+    [
+     "3.5",
+     "Travel full-body circuit",
+     "25–30 min"
+    ],
+    [
+     "3.6",
+     "Tempo strength",
+     "30–40 min"
+    ]
+   ]
+  },
+  {
+   "range": "4.1–4.6",
+   "name": "Core",
+   "items": [
+    [
+     "4.1",
+     "Core foundation",
+     "10–12 min"
+    ],
+    [
+     "4.2",
+     "Anti-rotation",
+     "12–15 min"
+    ],
+    [
+     "4.3",
+     "Anti-extension",
+     "10–14 min"
+    ],
+    [
+     "4.4",
+     "Lateral stability",
+     "10–14 min"
+    ],
+    [
+     "4.5",
+     "MTB trunk and shoulder control",
+     "12–15 min"
+    ],
+    [
+     "4.6",
+     "Travel core reset",
+     "10–12 min"
+    ]
+   ]
+  },
+  {
+   "range": "5.1–5.6",
+   "name": "Stretching and mobility",
+   "items": [
+    [
+     "5.1",
+     "Post-ride lower body",
+     "10–12 min"
+    ],
+    [
+     "5.2",
+     "Hip mobility",
+     "10–12 min"
+    ],
+    [
+     "5.3",
+     "Ankles and calves",
+     "10–12 min"
+    ],
+    [
+     "5.4",
+     "Upper back and shoulders",
+     "10–12 min"
+    ],
+    [
+     "5.5",
+     "Full-body mobility",
+     "15–18 min"
+    ],
+    [
+     "5.6",
+     "Evening gentle mobility",
+     "10–12 min"
+    ]
+   ]
+  },
+  {
+   "range": "6.1–6.6",
+   "name": "Pre-ride activation",
+   "items": [
+    [
+     "6.1",
+     "Everyday ride",
+     "5 min off-bike + 8 min on-bike"
+    ],
+    [
+     "6.2",
+     "Hip and glute preparation",
+     "6 min off-bike + 10 min on-bike"
+    ],
+    [
+     "6.3",
+     "Threshold or VO2 session preparation",
+     "5–6 min off-bike + 15 min on-bike"
+    ],
+    [
+     "6.4",
+     "XCO race preparation",
+     "6–8 min off-bike + 20 min on-bike"
+    ],
+    [
+     "6.5",
+     "Technical trail ride",
+     "6 min off-bike + 10 min on-bike"
+    ],
+    [
+     "6.6",
+     "Short travel or cold-morning preparation",
+     "4–5 min off-bike + 12 min on-bike"
+    ]
+   ]
+  }
+ ],
+ "W1": "Allow 8–12 minutes, or longer if needed: 3 minutes easy bike or walking; 8 bodyweight squats; 8 unloaded hip hinges; 5 reverse lunges/side; 8 easy rows or wall push-ups. Before the first heavy lift, perform 3–4 progressively heavier practice sets, for example 8 light reps, 5 moderate reps and 2–3 reps near the working load. Rest 45–90 seconds between practice sets. Add 1–2 light preparation sets before a new loaded pattern. Warm-up sets do not count toward working sets.",
+ "W2": "Allow 4–5 minutes: 90 seconds marching or easy walking, then 6 squats to a chair, 6 hip hinges, 6 wall push-ups and 6 calf raises. Move gently through the ranges required in the session.",
+ "sections": [
+  {
+   "id": "how",
+   "title": "How to read your workout",
+   "paras": [
+    "3 × 5 means three sets of five repetitions. /side means complete the number on each side. Rest is taken after each set unless the session is a circuit. For unilateral exercises, complete both sides before the listed rest; take 15–30 seconds to change sides when needed. Session durations are approximate and include the stated warm-up and normal transitions.",
+    "Lifting RPE describes how hard a set feels: RPE 6 ≈ 4 good repetitions left, RPE 7 ≈ 3 left, RPE 8 ≈ 2 left. Reps in reserve means technically sound repetitions, not forced repetitions. Ride RPE uses a separate 0–10 effort scale: 2–3 easy/conversational, 5–6 moderate, 7 hard, 8 very hard but controlled. Do not use ride RPE to select lifting loads.",
+    "Use controlled range, stable alignment and normal breathing between repetitions. Brace the trunk for loaded lifts. Finish each set before technique breaks down; no failed reps or maximal testing are needed. Stop an exercise for sharp pain, joint pain, dizziness or altered movement, and report it to your coach. Ordinary muscle effort is different from pain."
+   ]
+  },
+  {
+   "id": "levels",
+   "title": "Choose the appropriate starting level",
+   "paras": [
+    "New lifters: start with 3.1 or a coach-supervised light version of a lifting session. For the first 2–4 weeks use 1–2 sets per exercise, RPE 5–6 and simple squat, hinge, push and pull patterns. Movement quality determines readiness; completing a fixed number of weeks does not automatically qualify an athlete for heavy loading.",
+    "Junior athletes: use qualified supervision, equipment that fits and technique-led progression. Begin with light resistance and 1–2 sets of 10–15 controlled reps for basic strength exercises; shorten holds and reduce volume as needed. The heavy prescriptions in category 1 are for athletes whose coach has confirmed readiness, not a default for every junior. No unsupervised heavy barbell work.",
+    "Experienced lifters: use the listed prescriptions after familiarization. Main heavy lifts should remain at RPE 7–8, even if that requires a lower load than last week. An athlete's cycling level does not establish lifting experience."
+   ]
+  },
+  {
+   "id": "warmups",
+   "title": "Warm-up protocols",
+   "sub": [
+    [
+     "W1 Gym preparation",
+     "Allow 8–12 minutes, or longer if needed: 3 minutes easy bike or walking; 8 bodyweight squats; 8 unloaded hip hinges; 5 reverse lunges/side; 8 easy rows or wall push-ups. Before the first heavy lift, perform 3–4 progressively heavier practice sets, for example 8 light reps, 5 moderate reps and 2–3 reps near the working load. Rest 45–90 seconds between practice sets. Add 1–2 light preparation sets before a new loaded pattern. Warm-up sets do not count toward working sets."
+    ],
+    [
+     "W2 Bodyweight preparation",
+     "Allow 4–5 minutes: 90 seconds marching or easy walking, then 6 squats to a chair, 6 hip hinges, 6 wall push-ups and 6 calf raises. Move gently through the ranges required in the session."
+    ]
+   ]
+  },
+  {
+   "id": "progression",
+   "title": "Progression and scheduling",
+   "paras": [
+    "Choose one or two complementary strength sessions and repeat them for 4–6 weeks to track progress. Rotate a session when the goal, equipment or athlete needs change; variety alone is not a progression strategy. Categories 1, 2 and 3 are alternative strength-day options. Do not routinely stack all three.",
+    "Heavy lifting: when every prescribed set is clean and the last set is no harder than RPE 7 for two exposures, add the smallest available increment, usually about 2–5%. If RPE exceeds 8 or posture changes, reduce load by 5–10% or finish the exercise early. Keep reps fixed while increasing load.",
+    "Endurance lifting: first complete the prescribed repetitions with control. Progress a rep-range exercise to its upper limit, then add a small load and return to the lower limit. For fixed-repetition exercises add the smallest load only when all rounds stay at RPE 6 or below. Do not increase load, rounds and ride volume together.",
+    "Bodyweight and core: first improve range and control, then add 1–2 reps per set or 5 seconds to holds. Cap most core holds around 30–40 seconds; then select a harder variation with your coach. Keep pre-ride activation easy instead of progressively making it a fatiguing workout. Stretching progresses through comfortable range, not stronger pain.",
+    "Typical preparation block: 2 strength sessions/week on nonconsecutive days, usually with at least 48 hours between them; 1–3 short core sessions as needed; mobility as useful. Start at the lower end when cycling load is high. Keep heavy or unfamiliar leg work at least 48 hours before a priority ride or race, and longer if soreness persists.",
+    "Typical competition block: 1 familiar low-volume strength session/week, such as 1.6, adjusted to the race calendar. In a priority race week, reduce or omit lifting if it compromises freshness. Never introduce a new exercise close to an important event.",
+    "When lifting and riding share a day, protect the priority session. If cycling performance is the priority, ride first and separate lifting by several hours when practical. Do not lift heavily after a ride that leaves you too fatigued to move well. Short easy rides can pair with strength work. Keep at least one genuinely easy or rest day as needed.",
+    "Fatigue adjustment: with mild residual soreness and otherwise normal movement, reduce working sets by roughly one-third to one-half and keep RPE ≤6–7. If soreness changes gait or riding mechanics, or fatigue is unusually high, skip loading and tell your coach. Take an easier week when recovery or ride quality indicates it; do not force scheduled progression."
+   ]
+  },
+  {
+   "id": "examples",
+   "title": "Example assignments",
+   "paras": [
+    "Foundation athlete: Tuesday 3.1; Friday 3.2; one optional 4.1 on another day; 5.1 after selected rides; 6.1 before riding. Start with the beginner volume above.",
+    "Experienced preparation block: Tuesday 1.1; Friday 1.2; one optional 4.2; 5.2 or 5.4 as needed. Place key cycling sessions to preserve recovery. These examples are starting structures, not complete cycling plans.",
+    "Endurance-focused alternative: Tuesday 2.1; Friday 2.4 instead of the heavy pair. Competition block: one 1.6 early enough before the race, with short familiar activation and optional gentle mobility."
+   ]
+  },
+  {
+   "id": "tp",
+   "title": "TrainingPeaks assignment template",
+   "paras": [
+    "Title: KCA 1.1 | Heavy strength | Squat foundation",
+    "Description: Complete KCA 1.1 from the KCA Cycling Strength and Movement Library. Include W1. Use the listed sets and rests; main lifts RPE 7–8 with 2–3 good reps in reserve. Today's adjustment: [standard / reduced sets / exercise substitution]. Library: https://docs.google.com/document/d/1_MRvZupO-o-VREkGMy5Bq1AsB0ln8Rqkg_qfAkITI_s/edit",
+    "After training, record: exercise, load, sets × reps, last-set RPE, any discomfort and any changes. For dumbbells specify load per hand; for a barbell include the bar. Example: squat 45 kg total, 3 × 5, final set RPE 7, no pain. The next day, note whether soreness affected pedaling.",
+    "For combinations, name each code: KCA 1.2 + 4.1. Add the approximate durations together, and reduce overlapping core work if needed. Activation example: KCA 6.3 before intervals; use only one on-bike warm-up if the ride already includes one."
+   ]
+  },
+  {
+   "id": "coach",
+   "title": "Coach notes and evidence",
+   "paras": [
+    "These 36 sessions are KCA programming templates based on established strength-training principles. The exact combinations, doses and activation sequences have not been tested as a single program. Choose loads and exercises around the individual athlete's age, technique, history, equipment, cycling demands and recovery.",
+    "Heavy resistance training has improved cycling performance in controlled studies of trained cyclists. This supports including progressive strength work, but does not mean every exercise or endurance circuit produces the same benefit. High-repetition gym work is an option for local work capacity, not a replacement for cycling-specific endurance.",
+    "Rønnestad et al. Strength training improves performance and pedaling characteristics in elite cyclists (2015). Controlled trial supporting strength work alongside endurance training. https://pubmed.ncbi.nlm.nih.gov/24862305/",
+    "Vikmoen et al. Strength training improves cycling performance, fractional utilization of VO2max and cycling economy in female cyclists (2016). Controlled trial supporting inclusion of strength work in trained female cyclists. https://pubmed.ncbi.nlm.nih.gov/25892654/",
+    "Rønnestad et al. In-season strength maintenance training increases well-trained cyclists' performance (2010). Small study supporting reduced-frequency maintenance after a preparation block. https://pubmed.ncbi.nlm.nih.gov/20799042/",
+    "NSCA. Youth Resistance Training: Updated Position Statement Paper (2009). Supports qualified supervision, appropriate starting resistance and technique-led progression in youth. https://www.nsca.com/globalassets/about/position-statements/position_stand_youth_resistance_training---2009.pdf",
+    "Behm et al. Acute effects of muscle stretching on physical performance, range of motion, and injury incidence in healthy active individuals (2016). Review informing dynamic preparation before riding and the use of longer static holds away from immediate high-force efforts. Stretching does not guarantee injury prevention. https://pubmed.ncbi.nlm.nih.gov/26642915/"
+   ]
+  }
+ ],
+ "cats": [
+  {
+   "n": "1",
+   "name": "Heavy lifting",
+   "intro": "Develop maximal force with controlled, technically sound repetitions. Experienced lifters only at the listed load. Complete straight sets in order; do not circuit the main lifts. Main lifts: RPE 7–8 (2–3 reps in reserve), 2–3 minutes rest. Accessories: RPE 7, 60–90 seconds rest. Lower under control for about 2 seconds; lift with fast intent without losing position. Use warm-up W1."
+  },
+  {
+   "n": "2",
+   "name": "Muscular endurance lifting",
+   "intro": "Build local muscular endurance and general work capacity. These sessions complement cycling; they do not replace threshold or endurance work on the bike. Use W1. Unless specified, complete 2 rounds in order, 30–45 seconds between exercises and 2 minutes between rounds. Use light loads at RPE 6–7, with at least 3 reps in reserve. Control the lowering phase for about 2 seconds. These are strength days, not extra recovery sessions."
+  },
+  {
+   "n": "3",
+   "name": "Bodyweight strength",
+   "intro": "Use bodyweight resistance to build movement skill and practical strength. Start with W2. Unless stated, complete straight sets in order at RPE 6–7; leave 3 good reps in reserve. Rest 60 seconds between sets and exercises, and 15–30 seconds to switch sides. Lower for about 2 seconds. A stable chair, wall, mat or low step may be used; no external weights are required."
+  },
+  {
+   "n": "4",
+   "name": "Core",
+   "intro": "Develop trunk control while breathing normally. These are add-ons, not maximal abdominal tests. Begin with 1 minute of easy marching and 4 relaxed breaths. Complete 2 rounds in order, 20–30 seconds between drills and 60 seconds between rounds. Take 10–15 seconds to switch sides. Target RPE 5–7; stop each hold before shaking or posture loss. No need to add a second core session if the day's lifting already supplies enough trunk work."
+  },
+  {
+   "n": "5",
+   "name": "Stretching and mobility",
+   "intro": "Use after riding, after training or separately. Begin with 2 minutes of easy walking if cold. Move within a comfortable range; stretch sensation should be mild, about 2–3/10, with no bouncing, pinching or numbness. Complete drills in order. For static stretches do both sides before the second set, with about 10 seconds to transition. For mobility repetitions, move slowly and pause briefly at the end of the comfortable range. These sessions address range of motion and comfort; they are not a treatment for injury or a guarantee of recovery."
+  },
+  {
+   "n": "6",
+   "name": "Pre-ride activation",
+   "intro": "Prepare for the ride without creating fatigue. Complete one round of the listed off-bike drills, taking 10–15 seconds between drills and sides; use RPE 2–4. Then complete the on-bike warm-up below the drill list. On-bike minutes are included in the ride, not added a second time. Off-bike activation does not replace easy pedaling. For easy rides, the on-bike warm-up alone may be sufficient. Race and sprint options require prior practice and coach selection; none of the efforts is all-out."
+  }
+ ],
+ "catWarm": {
+  "1": [
+   "W1 Gym preparation",
+   "Allow 8–12 minutes, or longer if needed: 3 minutes easy bike or walking; 8 bodyweight squats; 8 unloaded hip hinges; 5 reverse lunges/side; 8 easy rows or wall push-ups. Before the first heavy lift, perform 3–4 progressively heavier practice sets, for example 8 light reps, 5 moderate reps and 2–3 reps near the working load. Rest 45–90 seconds between practice sets. Add 1–2 light preparation sets before a new loaded pattern. Warm-up sets do not count toward working sets."
+  ],
+  "2": [
+   "W1 Gym preparation",
+   "Allow 8–12 minutes, or longer if needed: 3 minutes easy bike or walking; 8 bodyweight squats; 8 unloaded hip hinges; 5 reverse lunges/side; 8 easy rows or wall push-ups. Before the first heavy lift, perform 3–4 progressively heavier practice sets, for example 8 light reps, 5 moderate reps and 2–3 reps near the working load. Rest 45–90 seconds between practice sets. Add 1–2 light preparation sets before a new loaded pattern. Warm-up sets do not count toward working sets."
+  ],
+  "3": [
+   "W2 Bodyweight preparation",
+   "Allow 4–5 minutes: 90 seconds marching or easy walking, then 6 squats to a chair, 6 hip hinges, 6 wall push-ups and 6 calf raises. Move gently through the ranges required in the session."
+  ]
+ },
+ "workouts": [
+  {
+   "code": "1.1",
+   "name": "Squat foundation",
+   "time": "45–55 min",
+   "equip": "Rack, barbell, dumbbells, cable or band",
+   "focus": "Knee-dominant force, unilateral stability and upper-back support.",
+   "adj": "Use a goblet squat for the squat pattern and keep RPE 6 if barbell technique is not established.",
+   "ex": [
+    {
+     "name": "Back squat",
+     "rx": "3 × 5; 3 min",
+     "note": "Brace before descending; keep whole foot planted. Use rack safeties.",
+     "m": "back-squat"
+    },
+    {
+     "name": "Dumbbell Romanian deadlift",
+     "rx": "2 × 8; 90 sec",
+     "note": "Push hips back; keep weights close and stop before the back rounds.",
+     "m": "db-rdl"
+    },
+    {
+     "name": "Supported split squat",
+     "rx": "2 × 6/side; 90 sec after both sides",
+     "note": "Light hand support; front knee tracks over toes.",
+     "m": "supported-split-squat"
+    },
+    {
+     "name": "Seated cable row",
+     "rx": "3 × 8; 75 sec",
+     "note": "Pull elbows back without shrugging.",
+     "m": "seated-cable-row"
+    },
+    {
+     "name": "Standing calf raise",
+     "rx": "2 × 10; 60 sec",
+     "note": "Pause at top; lower heel slowly.",
+     "m": "standing-calf-raise"
+    }
+   ]
+  },
+  {
+   "code": "1.2",
+   "name": "Hinge and posterior chain",
+   "time": "45–55 min",
+   "equip": "Trap bar, dumbbells, bench, pull-down machine",
+   "focus": "Hip extension strength with balanced pushing and pulling.",
+   "adj": "Replace the trap bar with kettlebell deadlifts from blocks; keep the same movement quality.",
+   "ex": [
+    {
+     "name": "Trap-bar deadlift",
+     "rx": "3 × 4; 3 min",
+     "note": "Brace, push the floor away and finish tall without leaning back.",
+     "m": "trap-bar-deadlift"
+    },
+    {
+     "name": "Low dumbbell step-up",
+     "rx": "2 × 6/side; 90 sec after both sides",
+     "note": "Use a height you can control; avoid pushing off the trailing foot.",
+     "m": "low-db-step-up"
+    },
+    {
+     "name": "Dumbbell bench press",
+     "rx": "3 × 8; 90 sec",
+     "note": "Keep wrists stacked and shoulder blades supported.",
+     "m": "db-bench-press"
+    },
+    {
+     "name": "Lat pull-down",
+     "rx": "3 × 8; 75 sec",
+     "note": "Pull toward upper chest; avoid swinging.",
+     "m": "lat-pulldown"
+    },
+    {
+     "name": "Bent-knee seated calf raise",
+     "rx": "2 × 12; 60 sec",
+     "note": "Keep pressure through the ball of the foot.",
+     "m": "seated-calf-raise"
+    }
+   ]
+  },
+  {
+   "code": "1.3",
+   "name": "Unilateral strength",
+   "time": "45–55 min",
+   "equip": "Dumbbells, bench, hamstring-curl machine",
+   "focus": "Single-leg force and pelvic control.",
+   "adj": "Use a supported floor split squat instead of elevating the rear foot.",
+   "ex": [
+    {
+     "name": "Rear-foot-elevated split squat",
+     "rx": "3 × 6/side; 2 min after both sides",
+     "note": "Use a low support; keep pelvis level and front foot planted.",
+     "m": "rfe-split-squat"
+    },
+    {
+     "name": "Barbell or dumbbell hip thrust",
+     "rx": "3 × 6; 2 min",
+     "note": "Finish with glutes; avoid arching the lower back.",
+     "m": "hip-thrust"
+    },
+    {
+     "name": "Hamstring curl machine",
+     "rx": "2 × 10; 75 sec",
+     "note": "Keep hips still through the full comfortable range.",
+     "m": "hamstring-curl-machine"
+    },
+    {
+     "name": "One-arm dumbbell row",
+     "rx": "3 × 8/side; 75 sec after both sides",
+     "note": "Support torso; pull toward hip without rotating.",
+     "m": "one-arm-db-row"
+    },
+    {
+     "name": "Incline push-up",
+     "rx": "2 × 8–12; 60 sec",
+     "note": "Choose height that leaves 2–3 good reps in reserve.",
+     "m": "incline-push-up"
+    }
+   ]
+  },
+  {
+   "code": "1.4",
+   "name": "Machine strength option",
+   "time": "40–50 min",
+   "equip": "Leg press, hamstring curl, chest press, row, calf machine",
+   "focus": "Controlled full-body strength when a barbell setup is unavailable.",
+   "adj": "Adjust every machine to the athlete. If it cannot fit properly, choose a free-weight alternative.",
+   "ex": [
+    {
+     "name": "Leg press",
+     "rx": "3 × 6; 3 min",
+     "note": "Keep pelvis against pad; stop before the lower back curls.",
+     "m": "leg-press"
+    },
+    {
+     "name": "Seated hamstring curl",
+     "rx": "3 × 8; 90 sec",
+     "note": "Align knee with machine axis and control the return.",
+     "m": "hamstring-curl-machine"
+    },
+    {
+     "name": "Chest press machine",
+     "rx": "3 × 8; 90 sec",
+     "note": "Set handles near mid-chest height; keep shoulders down.",
+     "m": "chest-press-machine"
+    },
+    {
+     "name": "Chest-supported row",
+     "rx": "3 × 8; 75 sec",
+     "note": "Keep chest on pad and avoid lifting the chin.",
+     "m": "chest-supported-row"
+    },
+    {
+     "name": "Calf raise machine",
+     "rx": "2 × 10; 60 sec",
+     "note": "Use a smooth comfortable range; do not bounce.",
+     "m": "calf-raise-machine"
+    }
+   ]
+  },
+  {
+   "code": "1.5",
+   "name": "Full-body MTB support",
+   "time": "45–55 min",
+   "equip": "Rack, barbell, dumbbells, cable",
+   "focus": "Leg force, pulling strength and support for handling the bike.",
+   "adj": "Use goblet squats and lighter carries; upper-body work should not cause next-day handling fatigue.",
+   "ex": [
+    {
+     "name": "Front squat",
+     "rx": "3 × 5; 3 min",
+     "note": "Keep elbows high and brace; use goblet squat if the rack position is uncomfortable.",
+     "m": "front-squat"
+    },
+    {
+     "name": "Dumbbell Romanian deadlift",
+     "rx": "2 × 8; 90 sec",
+     "note": "Hinge at hips with a long spine.",
+     "m": "db-rdl"
+    },
+    {
+     "name": "Half-kneeling one-arm cable press",
+     "rx": "3 × 8/side; 75 sec after both sides",
+     "note": "Squeeze rear glute; press without twisting.",
+     "m": "cable-press"
+    },
+    {
+     "name": "Chest-supported dumbbell row",
+     "rx": "3 × 8; 75 sec",
+     "note": "Keep chest supported and shoulders away from ears.",
+     "m": "chest-supported-row"
+    },
+    {
+     "name": "Farmer carry",
+     "rx": "3 × 25 m; 60 sec",
+     "note": "Walk tall with a load you can carry without tilting.",
+     "m": "farmer-carry"
+    }
+   ]
+  },
+  {
+   "code": "1.6",
+   "name": "In-season maintenance",
+   "time": "30–40 min",
+   "equip": "Familiar squat or trap-bar setup, dumbbells, row station",
+   "focus": "Retain established strength with less total volume.",
+   "adj": "For an important race week, coach may reduce to one set per exercise or omit. Do not introduce new lifts.",
+   "ex": [
+    {
+     "name": "Familiar squat OR trap-bar deadlift",
+     "rx": "2 × 4; 3 min; RPE 7",
+     "note": "Choose the lift already practiced in the current block.",
+     "m": "squat-or-deadlift"
+    },
+    {
+     "name": "Supported split squat",
+     "rx": "2 × 5/side; 90 sec after both sides; RPE 7",
+     "note": "Keep each repetition smooth.",
+     "m": "supported-split-squat"
+    },
+    {
+     "name": "Cable or dumbbell row",
+     "rx": "2 × 8; 75 sec; RPE 7",
+     "note": "Pull without shrugging or rotating.",
+     "m": "cable-db-row"
+    },
+    {
+     "name": "Push-up",
+     "rx": "2 × 8; 60 sec; RPE 6–7",
+     "note": "Use an incline if needed.",
+     "m": "push-up"
+    },
+    {
+     "name": "Calf raise",
+     "rx": "1 × 10; then finish; RPE 6",
+     "note": "Controlled range; leave plenty in reserve.",
+     "m": "standing-calf-raise"
+    }
+   ]
+  },
+  {
+   "code": "2.1",
+   "name": "Full-body endurance",
+   "time": "30–40 min",
+   "equip": "Dumbbells, bench, cable",
+   "focus": "General capacity across squat, hinge, push and pull.",
+   "adj": "Start with one round if new; progress to the prescribed two rounds before adding load.",
+   "ex": [
+    {
+     "name": "Goblet squat",
+     "rx": "12 reps/round",
+     "note": "Keep chest and pelvis stacked.",
+     "m": "goblet-squat"
+    },
+    {
+     "name": "Dumbbell Romanian deadlift",
+     "rx": "12 reps/round",
+     "note": "Hips back, weights close.",
+     "m": "db-rdl"
+    },
+    {
+     "name": "Incline push-up",
+     "rx": "10–15 reps/round",
+     "note": "Stop before the trunk sags.",
+     "m": "incline-push-up"
+    },
+    {
+     "name": "Cable row",
+     "rx": "15 reps/round",
+     "note": "Pause briefly with elbows back.",
+     "m": "seated-cable-row"
+    },
+    {
+     "name": "Standing calf raise",
+     "rx": "18 reps/round",
+     "note": "Use a slow full comfortable range.",
+     "m": "standing-calf-raise"
+    }
+   ]
+  },
+  {
+   "code": "2.2",
+   "name": "Single-leg endurance",
+   "time": "30–40 min",
+   "equip": "Light dumbbells, low step, band",
+   "focus": "Repeated unilateral effort with stable knee and hip alignment.",
+   "adj": "Use hand support and bodyweight for lunges and steps; rest 30 seconds when changing legs if needed.",
+   "ex": [
+    {
+     "name": "Reverse lunge",
+     "rx": "10/side/round",
+     "note": "Step back softly and drive through front foot.",
+     "m": "reverse-lunge"
+    },
+    {
+     "name": "Low step-up",
+     "rx": "10/side/round",
+     "note": "Control the descent; no bounce from trailing leg.",
+     "m": "low-step-up"
+    },
+    {
+     "name": "Glute bridge",
+     "rx": "15 reps/round",
+     "note": "Lift through hips without arching.",
+     "m": "glute-bridge"
+    },
+    {
+     "name": "Standing band row",
+     "rx": "15 reps/round",
+     "note": "Use a secure anchor; keep ribs down.",
+     "m": "standing-band-row"
+    },
+    {
+     "name": "Bent-knee calf raise",
+     "rx": "15 reps/round",
+     "note": "Hold a shallow knee bend throughout.",
+     "m": "bent-knee-calf-raise"
+    }
+   ]
+  },
+  {
+   "code": "2.3",
+   "name": "Posterior-chain endurance",
+   "time": "30–40 min",
+   "equip": "Dumbbells, hamstring curl, bench",
+   "focus": "Hip and hamstring endurance plus upper-back support.",
+   "adj": "Replace curls with 12 glute bridges if no machine; use lower loads if hamstrings remain sore for riding.",
+   "ex": [
+    {
+     "name": "Dumbbell Romanian deadlift",
+     "rx": "12 reps/round",
+     "note": "End the hinge when hamstrings limit motion.",
+     "m": "db-rdl"
+    },
+    {
+     "name": "Hamstring curl machine",
+     "rx": "15 reps/round",
+     "note": "Keep pelvis still.",
+     "m": "hamstring-curl-machine"
+    },
+    {
+     "name": "Dumbbell hip thrust",
+     "rx": "15 reps/round",
+     "note": "Pause for one second at the top.",
+     "m": "hip-thrust"
+    },
+    {
+     "name": "Chest-supported row",
+     "rx": "15 reps/round",
+     "note": "Move the arms without lifting chest off pad.",
+     "m": "chest-supported-row"
+    },
+    {
+     "name": "Suitcase carry",
+     "rx": "30 sec/side/round",
+     "note": "Walk slowly without leaning toward or away from load.",
+     "m": "suitcase-carry"
+    }
+   ]
+  },
+  {
+   "code": "2.4",
+   "name": "Upper-body trail endurance",
+   "time": "30–40 min",
+   "equip": "Dumbbells, band, bench",
+   "focus": "Push, pull, grip and shoulder endurance for sustained bike control.",
+   "adj": "Use an easier push-up incline and lighter grip loads; finish with control rather than forearm exhaustion.",
+   "ex": [
+    {
+     "name": "Incline push-up",
+     "rx": "12 reps/round",
+     "note": "Keep elbows roughly 30–45 degrees from torso.",
+     "m": "incline-push-up"
+    },
+    {
+     "name": "One-arm dumbbell row",
+     "rx": "12/side/round",
+     "note": "Support the free hand and keep trunk still.",
+     "m": "one-arm-db-row"
+    },
+    {
+     "name": "Band external rotation",
+     "rx": "15/side/round",
+     "note": "Elbow at side; rotate outward without turning torso.",
+     "m": "band-external-rotation"
+    },
+    {
+     "name": "Farmer carry",
+     "rx": "40 sec/round",
+     "note": "Stay tall; use short controlled steps.",
+     "m": "farmer-carry"
+    },
+    {
+     "name": "Bodyweight squat",
+     "rx": "15 reps/round",
+     "note": "Use an easy comfortable depth.",
+     "m": "bodyweight-squat"
+    }
+   ]
+  },
+  {
+   "code": "2.5",
+   "name": "Travel dumbbell endurance",
+   "time": "30–35 min",
+   "equip": "Pair of dumbbells, stable bench or chair",
+   "focus": "Maintain a full-body training stimulus away from the gym.",
+   "adj": "If weights are very light, use a 3-second lowering phase rather than rushing or adding endless reps.",
+   "ex": [
+    {
+     "name": "Dumbbell squat",
+     "rx": "12 reps/round",
+     "note": "Hold weights at sides; keep feet planted.",
+     "m": "dumbbell-squat"
+    },
+    {
+     "name": "Staggered-stance Romanian deadlift",
+     "rx": "10/side/round",
+     "note": "Rear foot acts as a kickstand; hinge over front hip.",
+     "m": "staggered-rdl"
+    },
+    {
+     "name": "Dumbbell floor press",
+     "rx": "15 reps/round",
+     "note": "Lower upper arms gently to floor.",
+     "m": "db-floor-press"
+    },
+    {
+     "name": "Supported dumbbell row",
+     "rx": "12/side/round",
+     "note": "Keep shoulders and hips square.",
+     "m": "one-arm-db-row"
+    },
+    {
+     "name": "Standing calf raise",
+     "rx": "20 reps/round",
+     "note": "Use wall support if balance limits control.",
+     "m": "standing-calf-raise"
+    }
+   ]
+  },
+  {
+   "code": "2.6",
+   "name": "Timed work-capacity circuit",
+   "time": "30–35 min",
+   "equip": "Light dumbbell, band, wall",
+   "focus": "Practice consistent movement quality during timed work.",
+   "adj": "Override normal circuit rest: 20 sec between exercises, 2 min between rounds, 2 rounds. RPE 6; timed sets never require working to failure.",
+   "ex": [
+    {
+     "name": "Goblet squat",
+     "rx": "40 sec work",
+     "note": "Use a steady pace and stop early if technique declines.",
+     "m": "goblet-squat"
+    },
+    {
+     "name": "Band row",
+     "rx": "40 sec work",
+     "note": "Secure the anchor; avoid momentum.",
+     "m": "standing-band-row"
+    },
+    {
+     "name": "Alternating reverse lunge",
+     "rx": "40 sec work",
+     "note": "Alternate legs evenly with a controlled step.",
+     "m": "reverse-lunge"
+    },
+    {
+     "name": "Wall or incline push-up",
+     "rx": "40 sec work",
+     "note": "Choose a height that stays comfortable for the interval.",
+     "m": "incline-push-up"
+    },
+    {
+     "name": "Glute bridge",
+     "rx": "40 sec work",
+     "note": "Lift smoothly; keep ribs down.",
+     "m": "glute-bridge"
+    }
+   ]
+  },
+  {
+   "code": "3.1",
+   "name": "Movement foundation",
+   "time": "25–35 min",
+   "equip": "Wall, stable chair, mat",
+   "focus": "Basic squat, push, hip extension and trunk control.",
+   "adj": "Choose a higher chair and wall push-ups for a first session.",
+   "ex": [
+    {
+     "name": "Squat to chair",
+     "rx": "2 × 10",
+     "note": "Touch the chair lightly without collapsing into it.",
+     "m": "squat-to-chair"
+    },
+    {
+     "name": "Wall or incline push-up",
+     "rx": "2 × 10",
+     "note": "Move shoulders, hips and ankles together.",
+     "m": "incline-push-up"
+    },
+    {
+     "name": "Glute bridge",
+     "rx": "2 × 12",
+     "note": "Squeeze glutes; keep ribs down.",
+     "m": "glute-bridge"
+    },
+    {
+     "name": "Bird dog",
+     "rx": "2 × 6/side; 3-sec hold",
+     "note": "Reach opposite arm and leg without twisting.",
+     "m": "bird-dog"
+    },
+    {
+     "name": "Calf raise",
+     "rx": "2 × 15",
+     "note": "Use wall support and move slowly.",
+     "m": "standing-calf-raise"
+    }
+   ]
+  },
+  {
+   "code": "3.2",
+   "name": "Single-leg control",
+   "time": "30–40 min",
+   "equip": "Wall or support, low step",
+   "focus": "Unilateral strength and stable lower-limb alignment.",
+   "adj": "Use two-leg bridges and calf raises until unilateral repetitions stay controlled.",
+   "ex": [
+    {
+     "name": "Supported split squat",
+     "rx": "3 × 8/side",
+     "note": "Use a fingertip support; lower straight down.",
+     "m": "supported-split-squat"
+    },
+    {
+     "name": "Low step-down",
+     "rx": "2 × 8/side",
+     "note": "Tap opposite heel gently; knee tracks over foot.",
+     "m": "low-step-down"
+    },
+    {
+     "name": "Single-leg glute bridge",
+     "rx": "2 × 8/side",
+     "note": "Keep pelvis level; shorten range if needed.",
+     "m": "single-leg-bridge"
+    },
+    {
+     "name": "Single-leg calf raise",
+     "rx": "2 × 10/side",
+     "note": "Use hand support so balance does not limit the calf.",
+     "m": "single-leg-calf-raise"
+    },
+    {
+     "name": "Side plank from knees",
+     "rx": "2 × 20 sec/side",
+     "note": "Keep shoulder over elbow and hips forward.",
+     "m": "side-plank-knees"
+    }
+   ]
+  },
+  {
+   "code": "3.3",
+   "name": "Posterior-chain control",
+   "time": "25–35 min",
+   "equip": "Mat, wall",
+   "focus": "Hip hinge skill, glute strength and posterior trunk control.",
+   "adj": "Bring heels closer for bridges; use a two-leg hinge if balance is limiting.",
+   "ex": [
+    {
+     "name": "Hip hinge to wall",
+     "rx": "2 × 12",
+     "note": "Stand a short step from wall; push hips back to touch it.",
+     "m": "hip-hinge-wall"
+    },
+    {
+     "name": "Single-leg hinge reach",
+     "rx": "2 × 8/side",
+     "note": "Use wall support; keep hips square.",
+     "m": "single-leg-hinge"
+    },
+    {
+     "name": "Long-lever bridge",
+     "rx": "3 × 8",
+     "note": "Set heels slightly farther away; keep a comfortable knee bend.",
+     "m": "long-lever-bridge"
+    },
+    {
+     "name": "Prone W raise",
+     "rx": "2 × 10",
+     "note": "Lie face down; gently lift bent arms without shrugging.",
+     "m": "prone-w-raise"
+    },
+    {
+     "name": "Bird dog",
+     "rx": "2 × 6/side; 5-sec hold",
+     "note": "Keep the lower back still.",
+     "m": "bird-dog"
+    }
+   ]
+  },
+  {
+   "code": "3.4",
+   "name": "Upper-body and trunk support",
+   "time": "25–35 min",
+   "equip": "Wall, stable incline, mat",
+   "focus": "Pushing strength and shoulder-blade control.",
+   "adj": "Perform taps at a stable incline. Bodyweight shoulder drills do not replace loaded rows when equipment is available.",
+   "ex": [
+    {
+     "name": "Incline push-up",
+     "rx": "3 × 8–12",
+     "note": "Choose a stable height; keep trunk straight.",
+     "m": "incline-push-up"
+    },
+    {
+     "name": "Scapular push-up at wall or incline",
+     "rx": "2 × 12",
+     "note": "Keep elbows straight; let shoulder blades glide.",
+     "m": "scap-push-up"
+    },
+    {
+     "name": "Prone reverse snow angel",
+     "rx": "2 × 8",
+     "note": "Sweep arms through a comfortable range without arching.",
+     "m": "reverse-snow-angel"
+    },
+    {
+     "name": "Wall slide",
+     "rx": "2 × 10",
+     "note": "Slide forearms upward without lifting the ribs.",
+     "m": "wall-slide"
+    },
+    {
+     "name": "High-plank shoulder tap",
+     "rx": "2 × 6/side",
+     "note": "Use a wide stance and resist trunk rotation.",
+     "m": "plank-shoulder-tap"
+    }
+   ]
+  },
+  {
+   "code": "3.5",
+   "name": "Travel full-body circuit",
+   "time": "25–30 min",
+   "equip": "Mat, stable chair or bench",
+   "focus": "A simple equipment-light session for travel days.",
+   "adj": "Override straight sets: 2 rounds, 30 sec between exercises, 90 sec between rounds. Reduce to one round after tiring travel.",
+   "ex": [
+    {
+     "name": "Bodyweight squat",
+     "rx": "12 reps/round",
+     "note": "Whole foot stays grounded.",
+     "m": "bodyweight-squat"
+    },
+    {
+     "name": "Reverse lunge",
+     "rx": "8/side/round",
+     "note": "Keep each step controlled.",
+     "m": "reverse-lunge"
+    },
+    {
+     "name": "Incline push-up",
+     "rx": "10 reps/round",
+     "note": "Keep neck in line with trunk.",
+     "m": "incline-push-up"
+    },
+    {
+     "name": "Glute bridge",
+     "rx": "12 reps/round",
+     "note": "Pause briefly at the top.",
+     "m": "glute-bridge"
+    },
+    {
+     "name": "Dead bug heel tap",
+     "rx": "6/side/round",
+     "note": "Exhale and lower one heel without arching.",
+     "m": "dead-bug-heel-tap"
+    }
+   ]
+  },
+  {
+   "code": "3.6",
+   "name": "Tempo strength",
+   "time": "30–40 min",
+   "equip": "Wall, stable incline, mat",
+   "focus": "Increase difficulty with control when weights are unavailable.",
+   "adj": "Use 2 squat sets on first exposure; slow lowering can create more soreness than expected.",
+   "ex": [
+    {
+     "name": "Tempo squat",
+     "rx": "3 × 8; 3 sec down + 1 sec pause",
+     "note": "Pause above any depth that causes loss of position.",
+     "m": "tempo-squat"
+    },
+    {
+     "name": "Split squat",
+     "rx": "2 × 8/side; 3 sec down",
+     "note": "Keep pelvis level and foot planted.",
+     "m": "split-squat"
+    },
+    {
+     "name": "Incline push-up",
+     "rx": "2 × 8; 3 sec down",
+     "note": "Choose an easier incline if control fades.",
+     "m": "incline-push-up"
+    },
+    {
+     "name": "Glute bridge",
+     "rx": "2 × 10; 2-sec top hold",
+     "note": "Keep knees in line with feet.",
+     "m": "glute-bridge"
+    },
+    {
+     "name": "Calf raise",
+     "rx": "2 × 12; 3 sec down",
+     "note": "Do not drop into the bottom position.",
+     "m": "standing-calf-raise"
+    }
+   ]
+  },
+  {
+   "code": "4.1",
+   "name": "Core foundation",
+   "time": "10–12 min",
+   "equip": "Mat",
+   "focus": "Control rib and pelvic position.",
+   "adj": "Keep both feet down in a regular bridge if pelvis rocks.",
+   "ex": [
+    {
+     "name": "Dead bug heel tap",
+     "rx": "6/side/round",
+     "note": "Keep ribs down while one heel touches the floor.",
+     "m": "dead-bug-heel-tap"
+    },
+    {
+     "name": "Bird dog",
+     "rx": "6/side/round; 3-sec hold",
+     "note": "Reach long without twisting.",
+     "m": "bird-dog"
+    },
+    {
+     "name": "Knee side plank",
+     "rx": "20 sec/side/round",
+     "note": "Stack shoulder over elbow.",
+     "m": "side-plank-knees"
+    },
+    {
+     "name": "Glute bridge march",
+     "rx": "6/side/round",
+     "note": "Lift one foot just enough to clear the floor.",
+     "m": "glute-bridge-march"
+    }
+   ]
+  },
+  {
+   "code": "4.2",
+   "name": "Anti-rotation",
+   "time": "12–15 min",
+   "equip": "Band or cable, light dumbbell, mat",
+   "focus": "Resist unwanted twisting during limb movement.",
+   "adj": "Use an incline for taps and lighter resistance for Pallof presses.",
+   "ex": [
+    {
+     "name": "Pallof press",
+     "rx": "10/side/round; 2-sec hold",
+     "note": "Anchor band at chest height; press hands forward without turning.",
+     "m": "pallof-press"
+    },
+    {
+     "name": "High-plank shoulder tap",
+     "rx": "6/side/round",
+     "note": "Widen feet and keep hips quiet.",
+     "m": "plank-shoulder-tap"
+    },
+    {
+     "name": "Suitcase march",
+     "rx": "30 sec/side/round",
+     "note": "Hold one weight and march without leaning.",
+     "m": "suitcase-march"
+    },
+    {
+     "name": "Bird dog",
+     "rx": "5/side/round; 5-sec hold",
+     "note": "Keep pelvis level.",
+     "m": "bird-dog"
+    }
+   ]
+  },
+  {
+   "code": "4.3",
+   "name": "Anti-extension",
+   "time": "10–14 min",
+   "equip": "Mat, stability ball",
+   "focus": "Resist lower-back arching.",
+   "adj": "Replace ball rollouts with 6 dead bug heel taps/side; use knee planks.",
+   "ex": [
+    {
+     "name": "Dead bug leg extension",
+     "rx": "6/side/round",
+     "note": "Extend only as far as you can keep trunk still.",
+     "m": "dead-bug-leg-ext"
+    },
+    {
+     "name": "Forearm plank",
+     "rx": "25 sec/round",
+     "note": "Squeeze glutes gently and breathe.",
+     "m": "forearm-plank"
+    },
+    {
+     "name": "Kneeling stability-ball rollout",
+     "rx": "8 reps/round",
+     "note": "Roll out a short distance without sagging.",
+     "m": "ball-rollout"
+    },
+    {
+     "name": "Bear hover",
+     "rx": "20 sec/round",
+     "note": "Hands under shoulders; knees hover just above floor.",
+     "m": "bear-hover"
+    }
+   ]
+  },
+  {
+   "code": "4.4",
+   "name": "Lateral stability",
+   "time": "10–14 min",
+   "equip": "Mat, dumbbell",
+   "focus": "Control side bending and pelvic position.",
+   "adj": "Use a knee side plank and reduce the carry weight.",
+   "ex": [
+    {
+     "name": "Side plank",
+     "rx": "20 sec/side/round",
+     "note": "Lift through the underside of the trunk.",
+     "m": "side-plank"
+    },
+    {
+     "name": "Suitcase carry",
+     "rx": "30 sec/side/round",
+     "note": "Walk tall without drifting sideways.",
+     "m": "suitcase-carry"
+    },
+    {
+     "name": "Side-lying hip abduction",
+     "rx": "10/side/round",
+     "note": "Lift upper leg slightly behind hip; toes face forward.",
+     "m": "side-lying-abduction"
+    },
+    {
+     "name": "Bird dog",
+     "rx": "5/side/round; 3-sec hold",
+     "note": "Keep shoulders and hips parallel to floor.",
+     "m": "bird-dog"
+    }
+   ]
+  },
+  {
+   "code": "4.5",
+   "name": "MTB trunk and shoulder control",
+   "time": "12–15 min",
+   "equip": "Mat, band, dumbbells",
+   "focus": "Support the trunk while shoulders and hips work.",
+   "adj": "Use a static bear hover instead of taps. Avoid chasing fatigue before technical riding.",
+   "ex": [
+    {
+     "name": "Bear hover shoulder tap",
+     "rx": "5/side/round",
+     "note": "Keep knees low and pelvis still.",
+     "m": "bear-shoulder-tap"
+    },
+    {
+     "name": "Half-kneeling Pallof press",
+     "rx": "8/side/round; 2-sec hold",
+     "note": "Squeeze rear glute and resist turning.",
+     "m": "half-kneel-pallof"
+    },
+    {
+     "name": "Farmer carry",
+     "rx": "30 sec/round",
+     "note": "Walk tall with relaxed shoulders.",
+     "m": "farmer-carry"
+    },
+    {
+     "name": "Side plank",
+     "rx": "20 sec/side/round",
+     "note": "Keep head, ribs and hips aligned.",
+     "m": "side-plank"
+    }
+   ]
+  },
+  {
+   "code": "4.6",
+   "name": "Travel core reset",
+   "time": "10–12 min",
+   "equip": "Mat",
+   "focus": "Low-equipment trunk control after travel or desk time.",
+   "adj": "Keep RPE 4–5 for an easy day. A reset should leave you feeling better, not exhausted.",
+   "ex": [
+    {
+     "name": "Supine abdominal brace with breathing",
+     "rx": "5 breaths/round",
+     "note": "Feet down; gently brace while allowing ribs to move.",
+     "m": "supine-brace"
+    },
+    {
+     "name": "Dead bug heel tap",
+     "rx": "6/side/round",
+     "note": "Lower one heel slowly and exhale.",
+     "m": "dead-bug-heel-tap"
+    },
+    {
+     "name": "Knee side plank",
+     "rx": "20 sec/side/round",
+     "note": "Keep hips forward.",
+     "m": "side-plank-knees"
+    },
+    {
+     "name": "Bird dog",
+     "rx": "5/side/round; 3-sec hold",
+     "note": "Reach without lifting the leg excessively.",
+     "m": "bird-dog"
+    }
+   ]
+  },
+  {
+   "code": "5.1",
+   "name": "Post-ride lower body",
+   "time": "10–12 min",
+   "equip": "Mat, wall",
+   "focus": "Gentle hip, thigh and calf range after riding.",
+   "adj": "Reduce holds to 20 sec if unfamiliar; do not force range after a hard ride.",
+   "ex": [
+    {
+     "name": "Half-kneeling hip-flexor stretch",
+     "rx": "2 × 30 sec/side",
+     "note": "Tuck pelvis slightly and squeeze rear glute; avoid arching.",
+     "m": "hip-flexor-stretch"
+    },
+    {
+     "name": "Supine hamstring stretch",
+     "rx": "2 × 30 sec/side",
+     "note": "Hold behind thigh; extend knee only to a mild stretch.",
+     "m": "supine-hamstring"
+    },
+    {
+     "name": "Supine figure-four stretch",
+     "rx": "2 × 30 sec/side",
+     "note": "Rest ankle over opposite thigh and draw legs toward you.",
+     "m": "figure-four"
+    },
+    {
+     "name": "Straight-knee calf stretch",
+     "rx": "2 × 30 sec/side",
+     "note": "Back heel down and foot facing forward.",
+     "m": "straight-calf-stretch"
+    }
+   ]
+  },
+  {
+   "code": "5.2",
+   "name": "Hip mobility",
+   "time": "10–12 min",
+   "equip": "Mat",
+   "focus": "Hip rotation, extension and adductor motion.",
+   "adj": "Use smaller hip-switch ranges if the knees feel strained.",
+   "ex": [
+    {
+     "name": "Seated 90/90 hip switches",
+     "rx": "2 × 6 total",
+     "note": "Use hands for support; rotate knees slowly between sides.",
+     "m": "90-90"
+    },
+    {
+     "name": "Adductor rock-back",
+     "rx": "2 × 8/side",
+     "note": "On hands and one knee, extend other leg sideways and rock back.",
+     "m": "adductor-rock"
+    },
+    {
+     "name": "Half-kneeling hip-flexor stretch",
+     "rx": "2 × 30 sec/side",
+     "note": "Keep ribs over pelvis.",
+     "m": "hip-flexor-stretch"
+    },
+    {
+     "name": "Supine figure-four stretch",
+     "rx": "1 × 30 sec/side",
+     "note": "Keep neck and shoulders relaxed.",
+     "m": "figure-four"
+    }
+   ]
+  },
+  {
+   "code": "5.3",
+   "name": "Ankles and calves",
+   "time": "10–12 min",
+   "equip": "Wall, support",
+   "focus": "Comfortable ankle motion and lower-leg flexibility.",
+   "adj": "Move foot closer to wall if heel rises during ankle rocks.",
+   "ex": [
+    {
+     "name": "Knee-to-wall ankle rocks",
+     "rx": "2 × 10/side",
+     "note": "Keep heel down as knee moves toward wall over toes.",
+     "m": "knee-wall-ankle"
+    },
+    {
+     "name": "Straight-knee calf stretch",
+     "rx": "2 × 30 sec/side",
+     "note": "Keep back knee comfortably straight.",
+     "m": "straight-calf-stretch"
+    },
+    {
+     "name": "Bent-knee calf stretch",
+     "rx": "2 × 30 sec/side",
+     "note": "Bend rear knee slightly while heel stays planted.",
+     "m": "bent-calf-stretch"
+    },
+    {
+     "name": "Seated ankle circles",
+     "rx": "2 × 8 each direction/ankle",
+     "note": "Move slowly without forcing the outer range.",
+     "m": "ankle-circles"
+    }
+   ]
+  },
+  {
+   "code": "5.4",
+   "name": "Upper back and shoulders",
+   "time": "10–12 min",
+   "equip": "Mat, wall or doorway",
+   "focus": "Thoracic rotation and shoulder mobility after riding posture.",
+   "adj": "Shorten the range if the shoulder pinches; skip the painful drill.",
+   "ex": [
+    {
+     "name": "Side-lying open book",
+     "rx": "2 × 6/side",
+     "note": "Knees stay together as upper arm opens across chest.",
+     "m": "open-book"
+    },
+    {
+     "name": "Quadruped thoracic rotation",
+     "rx": "2 × 6/side",
+     "note": "Hand behind head; rotate through upper back without shifting hips.",
+     "m": "quad-t-rotation"
+    },
+    {
+     "name": "Doorway chest stretch",
+     "rx": "2 × 30 sec/side",
+     "note": "Use a comfortable arm height and avoid front-shoulder pain.",
+     "m": "doorway-chest"
+    },
+    {
+     "name": "Wall slide",
+     "rx": "2 × 8",
+     "note": "Raise forearms without flaring ribs.",
+     "m": "wall-slide"
+    }
+   ]
+  },
+  {
+   "code": "5.5",
+   "name": "Full-body mobility",
+   "time": "15–18 min",
+   "equip": "Mat, wall",
+   "focus": "A longer session for hips, ankles and upper back.",
+   "adj": "For a shorter session, do one set of each drill.",
+   "ex": [
+    {
+     "name": "Cat-cow",
+     "rx": "1 × 8",
+     "note": "Move spine gently with the breath.",
+     "m": "cat-cow"
+    },
+    {
+     "name": "Half-kneeling hip-flexor stretch",
+     "rx": "2 × 30 sec/side",
+     "note": "Squeeze rear glute; stay tall.",
+     "m": "hip-flexor-stretch"
+    },
+    {
+     "name": "Supine hamstring stretch",
+     "rx": "2 × 30 sec/side",
+     "note": "Keep stretch mild behind thigh.",
+     "m": "supine-hamstring"
+    },
+    {
+     "name": "Knee-to-wall rocks",
+     "rx": "2 × 10/side",
+     "note": "Heel stays down.",
+     "m": "knee-wall-ankle"
+    },
+    {
+     "name": "Open book",
+     "rx": "2 × 6/side",
+     "note": "Rotate slowly with knees stacked.",
+     "m": "open-book"
+    },
+    {
+     "name": "Doorway chest stretch",
+     "rx": "2 × 30 sec/side",
+     "note": "Keep shoulders relaxed.",
+     "m": "doorway-chest"
+    }
+   ]
+  },
+  {
+   "code": "5.6",
+   "name": "Evening gentle mobility",
+   "time": "10–12 min",
+   "equip": "Mat, cushion",
+   "focus": "Comfortable movement and relaxed breathing.",
+   "adj": "Keep effort very low. Use supine breathing instead of any uncomfortable position.",
+   "ex": [
+    {
+     "name": "Supine relaxed breathing",
+     "rx": "6 slow breaths",
+     "note": "Rest calves on a chair if comfortable; do not force breath holds.",
+     "m": "supine-breathing"
+    },
+    {
+     "name": "Supported child's pose",
+     "rx": "2 × 30 sec",
+     "note": "Rest chest on a cushion; skip if knees dislike the position.",
+     "m": "childs-pose"
+    },
+    {
+     "name": "Supine figure-four stretch",
+     "rx": "2 × 30 sec/side",
+     "note": "Relax the jaw and shoulders.",
+     "m": "figure-four"
+    },
+    {
+     "name": "Open book",
+     "rx": "1 × 6/side",
+     "note": "Follow the upper hand with your eyes if comfortable.",
+     "m": "open-book"
+    },
+    {
+     "name": "Half-kneeling hip-flexor stretch",
+     "rx": "1 × 30 sec/side",
+     "note": "Use padding under knee.",
+     "m": "hip-flexor-stretch"
+    }
+   ]
+  },
+  {
+   "code": "6.1",
+   "name": "Everyday ride",
+   "time": "5 min off-bike + 8 min on-bike",
+   "equip": "Wall or support",
+   "focus": "General movement preparation.",
+   "adj": "Bike: 8 min easy conversational pedaling at RPE 2–3, increasing cadence gradually.",
+   "ex": [
+    {
+     "name": "March in place",
+     "rx": "45 sec",
+     "note": "Relax shoulders and gradually increase rhythm.",
+     "m": "march-in-place"
+    },
+    {
+     "name": "Bodyweight squat",
+     "rx": "8 reps",
+     "note": "Use a comfortable depth.",
+     "m": "bodyweight-squat"
+    },
+    {
+     "name": "Standing hip hinge",
+     "rx": "8 reps",
+     "note": "Push hips back with spine long.",
+     "m": "standing-hinge"
+    },
+    {
+     "name": "Supported leg swing",
+     "rx": "8/side forward/back",
+     "note": "Keep trunk still; do not kick to end range.",
+     "m": "leg-swing"
+    },
+    {
+     "name": "Calf raise",
+     "rx": "10 reps",
+     "note": "Move smoothly.",
+     "m": "standing-calf-raise"
+    }
+   ]
+  },
+  {
+   "code": "6.2",
+   "name": "Hip and glute preparation",
+   "time": "6 min off-bike + 10 min on-bike",
+   "equip": "Mat, optional mini-band",
+   "focus": "Prepare hips for smooth pedal strokes.",
+   "adj": "Bike: 5 min easy, then 3 × (20 sec quick relaxed cadence + 40 sec easy), then 2 min easy; use light gearing, no bouncing.",
+   "ex": [
+    {
+     "name": "Glute bridge",
+     "rx": "10 reps; 1-sec hold",
+     "note": "Squeeze glutes without arching.",
+     "m": "glute-bridge"
+    },
+    {
+     "name": "Lateral mini-band walk",
+     "rx": "6 steps each direction",
+     "note": "Small steps, toes forward; use no band if unavailable.",
+     "m": "mini-band-walk"
+    },
+    {
+     "name": "Supported split squat",
+     "rx": "5/side",
+     "note": "Keep effort easy.",
+     "m": "supported-split-squat"
+    },
+    {
+     "name": "Standing hip hinge",
+     "rx": "8 reps",
+     "note": "Move at hips rather than lower back.",
+     "m": "standing-hinge"
+    },
+    {
+     "name": "Dead bug heel tap",
+     "rx": "4/side",
+     "note": "Exhale with each heel tap.",
+     "m": "dead-bug-heel-tap"
+    }
+   ]
+  },
+  {
+   "code": "6.3",
+   "name": "Threshold or VO2 session preparation",
+   "time": "5–6 min off-bike + 15 min on-bike",
+   "equip": "Wall or support",
+   "focus": "Build readiness before a demanding interval workout.",
+   "adj": "Bike: 6 min easy, 4 min gradually building to RPE 5, 2 × (30 sec brisk RPE 7 + 90 sec easy), 1 min easy. Use the TrainingPeaks workout's warm-up instead if one is already prescribed.",
+   "ex": [
+    {
+     "name": "March in place",
+     "rx": "45 sec",
+     "note": "Gradually raise movement rate.",
+     "m": "march-in-place"
+    },
+    {
+     "name": "Alternating reverse lunge",
+     "rx": "5/side",
+     "note": "Use a shallow comfortable range.",
+     "m": "reverse-lunge"
+    },
+    {
+     "name": "Bodyweight squat",
+     "rx": "6 reps",
+     "note": "Keep repetitions easy.",
+     "m": "bodyweight-squat"
+    },
+    {
+     "name": "Supported leg swing",
+     "rx": "8/side forward/back",
+     "note": "Stay controlled.",
+     "m": "leg-swing"
+    },
+    {
+     "name": "Wall push-up",
+     "rx": "8 reps",
+     "note": "Move shoulders through a comfortable range.",
+     "m": "wall-push-up"
+    }
+   ]
+  },
+  {
+   "code": "6.4",
+   "name": "XCO race preparation",
+   "time": "6–8 min off-bike + 20 min on-bike",
+   "equip": "Mini-band optional, safe riding area or trainer",
+   "focus": "Prepare for race intensity while staying fresh.",
+   "adj": "Bike: 8 min easy, 4 min build to RPE 5–6, 3 × (20 sec controlled fast effort at RPE 8 + 100 sec easy), 2 min easy. No maximal starts. Rehearse beforehand; shorten in heat or when prone to fatigue, and time completion near staging.",
+   "ex": [
+    {
+     "name": "Bodyweight squat",
+     "rx": "6 reps",
+     "note": "Smooth and easy.",
+     "m": "bodyweight-squat"
+    },
+    {
+     "name": "Reverse lunge",
+     "rx": "4/side",
+     "note": "Keep pelvis level.",
+     "m": "reverse-lunge"
+    },
+    {
+     "name": "Lateral band walk or side step",
+     "rx": "6 steps each direction",
+     "note": "Keep steps short.",
+     "m": "mini-band-walk"
+    },
+    {
+     "name": "Incline scapular push-up",
+     "rx": "8 reps",
+     "note": "Straight elbows; let shoulder blades glide.",
+     "m": "incline-scap-push"
+    },
+    {
+     "name": "Standing thoracic rotation",
+     "rx": "5/side",
+     "note": "Rotate gently without forcing hips.",
+     "m": "standing-t-rotation"
+    }
+   ]
+  },
+  {
+   "code": "6.5",
+   "name": "Technical trail ride",
+   "time": "6 min off-bike + 10 min on-bike",
+   "equip": "Wall or stable incline",
+   "focus": "Prepare shoulders, trunk and hips for handling.",
+   "adj": "Bike: 7 min easy riding, then 3 min of gentle braking, cornering and standing-position practice in a clear, safe area; no jumps or technical hazards during warm-up.",
+   "ex": [
+    {
+     "name": "Wall scapular push-up",
+     "rx": "10 reps",
+     "note": "Keep elbows straight.",
+     "m": "scap-push-up"
+    },
+    {
+     "name": "Standing thoracic rotation",
+     "rx": "6/side",
+     "note": "Turn upper trunk gently.",
+     "m": "standing-t-rotation"
+    },
+    {
+     "name": "Supported lateral lunge",
+     "rx": "5/side",
+     "note": "Sit into the hip with foot flat.",
+     "m": "lateral-lunge"
+    },
+    {
+     "name": "High-plank shoulder tap at incline",
+     "rx": "4/side",
+     "note": "Keep trunk steady and effort easy.",
+     "m": "incline-shoulder-tap"
+    },
+    {
+     "name": "Wrist circles and hand open/close",
+     "rx": "20 sec each",
+     "note": "Use a relaxed pain-free range.",
+     "m": "wrist-circles"
+    }
+   ]
+  },
+  {
+   "code": "6.6",
+   "name": "Short travel or cold-morning preparation",
+   "time": "4–5 min off-bike + 12 min on-bike",
+   "equip": "Wall or support",
+   "focus": "A compact routine before gradually warming on the bike.",
+   "adj": "Bike: 9 min easy, then 3 × (15 sec relaxed fast cadence + 45 sec easy). Add easy pedaling if still cold; do not force intensity while stiff.",
+   "ex": [
+    {
+     "name": "Brisk march",
+     "rx": "60 sec",
+     "note": "Keep movement relaxed.",
+     "m": "brisk-march"
+    },
+    {
+     "name": "Bodyweight squat",
+     "rx": "8 reps",
+     "note": "Start shallow and increase comfortable range.",
+     "m": "bodyweight-squat"
+    },
+    {
+     "name": "Alternating reverse lunge",
+     "rx": "4/side",
+     "note": "Use support if stiff.",
+     "m": "reverse-lunge"
+    },
+    {
+     "name": "Arm circles",
+     "rx": "8 each direction",
+     "note": "Start small.",
+     "m": "arm-circles"
+    },
+    {
+     "name": "Calf raise",
+     "rx": "10 reps",
+     "note": "Rise and lower slowly.",
+     "m": "standing-calf-raise"
+    }
+   ]
+  }
+ ],
+ "moves": {
+  "back-squat": {
+   "img": true,
+   "vid": true
+  },
+  "db-rdl": {
+   "img": true,
+   "vid": true
+  },
+  "supported-split-squat": {
+   "img": true,
+   "vid": true
+  },
+  "seated-cable-row": {
+   "img": true,
+   "vid": true
+  },
+  "standing-calf-raise": {
+   "img": true,
+   "vid": true
+  },
+  "trap-bar-deadlift": {
+   "img": true,
+   "vid": true
+  },
+  "low-db-step-up": {
+   "img": true,
+   "vid": true
+  },
+  "db-bench-press": {
+   "img": true,
+   "vid": true
+  },
+  "lat-pulldown": {
+   "img": true,
+   "vid": true
+  },
+  "seated-calf-raise": {
+   "img": true,
+   "vid": true
+  },
+  "rfe-split-squat": {
+   "img": true,
+   "vid": true
+  },
+  "hip-thrust": {
+   "img": true,
+   "vid": true
+  },
+  "hamstring-curl-machine": {
+   "img": true,
+   "vid": true
+  },
+  "one-arm-db-row": {
+   "img": true,
+   "vid": true
+  },
+  "incline-push-up": {
+   "img": true,
+   "vid": true
+  },
+  "leg-press": {
+   "img": true,
+   "vid": true
+  },
+  "chest-press-machine": {
+   "img": true,
+   "vid": true
+  },
+  "chest-supported-row": {
+   "img": true,
+   "vid": true
+  },
+  "calf-raise-machine": {
+   "img": true,
+   "vid": true
+  },
+  "front-squat": {
+   "img": true,
+   "vid": true
+  },
+  "cable-press": {
+   "img": true,
+   "vid": true
+  },
+  "farmer-carry": {
+   "img": true,
+   "vid": true
+  },
+  "squat-or-deadlift": {
+   "img": true,
+   "vid": true
+  },
+  "cable-db-row": {
+   "img": true,
+   "vid": true
+  },
+  "push-up": {
+   "img": true,
+   "vid": true
+  },
+  "goblet-squat": {
+   "img": true,
+   "vid": true
+  },
+  "reverse-lunge": {
+   "img": true,
+   "vid": true
+  },
+  "low-step-up": {
+   "img": true,
+   "vid": true
+  },
+  "glute-bridge": {
+   "img": true,
+   "vid": true
+  },
+  "standing-band-row": {
+   "img": true,
+   "vid": true
+  },
+  "bent-knee-calf-raise": {
+   "img": true,
+   "vid": true
+  },
+  "suitcase-carry": {
+   "img": true,
+   "vid": true
+  },
+  "band-external-rotation": {
+   "img": true,
+   "vid": true
+  },
+  "bodyweight-squat": {
+   "img": true,
+   "vid": true
+  },
+  "dumbbell-squat": {
+   "img": true,
+   "vid": true
+  },
+  "staggered-rdl": {
+   "img": true,
+   "vid": true
+  },
+  "db-floor-press": {
+   "img": true,
+   "vid": true
+  },
+  "squat-to-chair": {
+   "img": true,
+   "vid": true
+  },
+  "bird-dog": {
+   "img": true,
+   "vid": true
+  },
+  "low-step-down": {
+   "img": true,
+   "vid": true
+  },
+  "single-leg-bridge": {
+   "img": true,
+   "vid": true
+  },
+  "single-leg-calf-raise": {
+   "img": true,
+   "vid": true
+  },
+  "side-plank-knees": {
+   "img": true,
+   "vid": true
+  },
+  "hip-hinge-wall": {
+   "img": true,
+   "vid": true
+  },
+  "single-leg-hinge": {
+   "img": true,
+   "vid": true
+  },
+  "long-lever-bridge": {
+   "img": true,
+   "vid": true
+  },
+  "prone-w-raise": {
+   "img": true,
+   "vid": true
+  },
+  "scap-push-up": {
+   "img": true,
+   "vid": true
+  },
+  "reverse-snow-angel": {
+   "img": true,
+   "vid": true
+  },
+  "wall-slide": {
+   "img": true,
+   "vid": true
+  },
+  "plank-shoulder-tap": {
+   "img": true,
+   "vid": true
+  },
+  "dead-bug-heel-tap": {
+   "img": true,
+   "vid": false
+  },
+  "tempo-squat": {
+   "img": true,
+   "vid": false
+  },
+  "split-squat": {
+   "img": true,
+   "vid": false
+  },
+  "glute-bridge-march": {
+   "img": true,
+   "vid": false
+  },
+  "pallof-press": {
+   "img": true,
+   "vid": false
+  },
+  "suitcase-march": {
+   "img": true,
+   "vid": false
+  },
+  "dead-bug-leg-ext": {
+   "img": true,
+   "vid": false
+  },
+  "forearm-plank": {
+   "img": true,
+   "vid": false
+  },
+  "ball-rollout": {
+   "img": true,
+   "vid": false
+  },
+  "bear-hover": {
+   "img": true,
+   "vid": false
+  },
+  "side-plank": {
+   "img": true,
+   "vid": false
+  },
+  "side-lying-abduction": {
+   "img": true,
+   "vid": false
+  },
+  "bear-shoulder-tap": {
+   "img": true,
+   "vid": false
+  },
+  "half-kneel-pallof": {
+   "img": true,
+   "vid": false
+  },
+  "supine-brace": {
+   "img": true,
+   "vid": false
+  },
+  "hip-flexor-stretch": {
+   "img": true,
+   "vid": false
+  },
+  "supine-hamstring": {
+   "img": true,
+   "vid": false
+  },
+  "figure-four": {
+   "img": true,
+   "vid": false
+  },
+  "straight-calf-stretch": {
+   "img": true,
+   "vid": false
+  },
+  "90-90": {
+   "img": true,
+   "vid": false
+  },
+  "adductor-rock": {
+   "img": true,
+   "vid": false
+  },
+  "knee-wall-ankle": {
+   "img": true,
+   "vid": false
+  },
+  "bent-calf-stretch": {
+   "img": true,
+   "vid": false
+  },
+  "ankle-circles": {
+   "img": true,
+   "vid": false
+  },
+  "open-book": {
+   "img": true,
+   "vid": false
+  },
+  "quad-t-rotation": {
+   "img": true,
+   "vid": false
+  },
+  "doorway-chest": {
+   "img": true,
+   "vid": false
+  },
+  "cat-cow": {
+   "img": true,
+   "vid": false
+  },
+  "supine-breathing": {
+   "img": true,
+   "vid": false
+  },
+  "childs-pose": {
+   "img": true,
+   "vid": false
+  },
+  "march-in-place": {
+   "img": true,
+   "vid": false
+  },
+  "standing-hinge": {
+   "img": true,
+   "vid": false
+  },
+  "leg-swing": {
+   "img": true,
+   "vid": false
+  },
+  "mini-band-walk": {
+   "img": true,
+   "vid": false
+  },
+  "wall-push-up": {
+   "img": true,
+   "vid": false
+  },
+  "incline-scap-push": {
+   "img": true,
+   "vid": false
+  },
+  "standing-t-rotation": {
+   "img": true,
+   "vid": false
+  },
+  "lateral-lunge": {
+   "img": true,
+   "vid": false
+  },
+  "incline-shoulder-tap": {
+   "img": true,
+   "vid": false
+  },
+  "wrist-circles": {
+   "img": true,
+   "vid": false
+  },
+  "brisk-march": {
+   "img": true,
+   "vid": false
+  },
+  "arm-circles": {
+   "img": true,
+   "vid": false
+  }
+ }
+}
